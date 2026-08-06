@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mourning-dove/cogewea-the-half-blood</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-08-06T20:36:59Z</dc:date>
+		<meta property="dcterms:modified">2026-08-06T20:36:59Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -43,15 +43,15 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:abstract">A young woman rancher of mixed Native American and European descent is wooed by the foreman and a newly-arrived tenderfoot.</meta>
 		<dc:description>
-			&lt;p&gt;Cogewea, a mischevious young rancher, lives with her older sister and brother-in-law on their homestead, the Horseshoe Bend Ranch, located in the Flathead Indian Reservation. A member of the Okanogan tribe, Cogewea is nevertheless stigmatized as a “breed”—a derogatory term historically applied to people of mixed Native American and European descent. Drama arrives at the Horseshoe Bend with the person of Alfred Densmore, a businessman who has set out from the Eastern states in search of adventure and money. After he breaks his arm by being thrown by a half-tame bronco, Densmore develops a romantic interest in Cogewea, sparking a rivalry with Cogewea’s friend Jim, who is the ranch’s foreman and a fellow “breed.” Cogewea must navigate the interwoven challenges of choosing a suitor and reckoning with her ethnic identity, with the aid of advice in the form of stories told by her grandmother, the Stemteemä.&lt;/p&gt;
+			&lt;p&gt;Cogewea, a mischievous young rancher, lives with her older sister and brother-in-law on their homestead, the Horseshoe Bend Ranch, located in the Flathead Indian Reservation. A member of the Okanogan tribe, Cogewea is nevertheless stigmatized as a “breed”—a derogatory term historically applied to people of mixed Native American and European descent. Drama arrives at the Horseshoe Bend with the person of Alfred Densmore, a businessman who has set out from the Eastern states in search of adventure and money. After he breaks his arm by being thrown by a half-tame bronco, Densmore develops a romantic interest in Cogewea, sparking a rivalry with Cogewea’s friend Jim, who is the ranch’s foreman and a fellow breed. Cogewea must navigate the interwoven challenges of choosing a suitor and reckoning with her ethnic identity, with the aid of advice in the form of stories told by her grandmother, the Stemteemä.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Cogewea&lt;/i&gt; was one of the first novels ever published by a Native American woman. It was the product of collaboration between &lt;a href="https://standardebooks.org/ebooks/mourning-dove"&gt;Mourning Dove&lt;/a&gt; and her editor, Lucullus Virgil McWhorter, a Euro-American anthropologist and advocate of indigenous American cultures. Critics have debated the extent of McWhorter’s influence on the final product, but Mourning Dove’s own correspondence with McWhorter suggests that McWhorter revised her draft significantly and introduced his own voice into the novel. &lt;i&gt;Cogewea&lt;/i&gt; continues to be studied as an early example of Native American literature.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://digitalcommons.unl.edu/etas/84/</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Index:Co-ge-we-a,_the_half_blood.djvu</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006498572</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">88478</meta>
+		<meta property="schema:educationalLevel">73.27</meta>
 		<link href="https://en.wikipedia.org/wiki/Cogewea" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -90,6 +90,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<link href="https://github.com/dajare" refines="#producer-2" rel="schema:url"/>
+		<link href="https://id.loc.gov/authorities/names/n92075987.html" refines="#producer-2" rel="schema:sameAs"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
