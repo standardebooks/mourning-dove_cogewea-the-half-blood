@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mourning-dove/cogewea-the-half-blood</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
@@ -42,7 +42,7 @@
 		<meta property="term" refines="#subject-1">sh85065264</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:abstract">A young woman rancher of mixed Native American and European descent is wooed by the foreman and a newly-arrived tenderfoot.</meta>
-		<dc:description id="description">
+		<dc:description>
 			&lt;p&gt;Cogewea, a mischevious young rancher, lives with her older sister and brother-in-law on their homestead, the Horseshoe Bend Ranch, located in the Flathead Indian Reservation. A member of the Okanogan tribe, Cogewea is nevertheless stigmatized as a “breed”—a derogatory term historically applied to people of mixed Native American and European descent. Drama arrives at the Horseshoe Bend with the person of Alfred Densmore, a businessman who has set out from the Eastern states in search of adventure and money. After he breaks his arm by being thrown by a half-tame bronco, Densmore develops a romantic interest in Cogewea, sparking a rivalry with Cogewea’s friend Jim, who is the ranch’s foreman and a fellow “breed.” Cogewea must navigate the interwoven challenges of choosing a suitor and reckoning with her ethnic identity, with the aid of advice in the form of stories told by her grandmother, the Stemteemä.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Cogewea&lt;/i&gt; was one of the first novels ever published by a Native American woman. It was the product of collaboration between &lt;a href="https://standardebooks.org/ebooks/mourning-dove"&gt;Mourning Dove&lt;/a&gt; and her editor, Lucullus Virgil McWhorter, a Euro-American anthropologist and advocate of indigenous American cultures. Critics have debated the extent of McWhorter’s influence on the final product, but Mourning Dove’s own correspondence with McWhorter suggests that McWhorter revised her draft significantly and introduced his own voice into the novel. &lt;i&gt;Cogewea&lt;/i&gt; continues to be studied as an early example of Native American literature.&lt;/p&gt;
 		</dc:description>
